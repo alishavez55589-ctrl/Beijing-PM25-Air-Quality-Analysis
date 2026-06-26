@@ -191,9 +191,8 @@ joblib==1.5.3
 
 ## 👥 Authors
 
-- MC-57
-- MC-66
+Shave Nasir
+Basil Iftikhar
 
-**Course:** MCT-341L — Data Science and Analytics  
-**Institution:** [Your University Name]  
-**Year:** 2023
+**Institution:** [University of Engineering and Technology lahore]  
+
